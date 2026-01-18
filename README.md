@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Marcel74Z
-- 👀 I’m interested in learning to get my Raspberry Pi to work
+- 👀 I’m interested in learning to get my Raspberry Pi to work.
+- Same for HomeAssistant on old Ubuntu laptop
 - 🌱 I’m currently tinkering with my RTL-SDR V4 dongle
 
 <!---
